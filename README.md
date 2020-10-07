@@ -1,12 +1,12 @@
 # Customer-Churn-Prediction
 
 ### Prerequisites :
-  I.Python Version 3 or above ( Preferably 3.8 )
-  II.Libraries:
-  				*Numpy
-				*pandas
-				*matplotlib
-				*sklearn
+  	I.Python Version 3 or above ( Preferably 3.8 )
+ 	II.Libraries:
+  		     *Numpy
+		     *pandas
+		     *matplotlib
+		     *sklearn
 
 ### Problem Statement : 
 A Bank wants to take care of customer retention for its product: savings accounts. The bank wants you to identify customers likely to churn balances below 	the minimum balance. You have the customers information such as age, gender, demographics along with their transactions with the bank.
