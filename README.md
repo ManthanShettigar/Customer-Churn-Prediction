@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction
 
-###Prerequisites :
+### Prerequisites :
   I.Python Version 3 or above ( Preferably 3.8 )
   II.Libraries:
   				*Numpy
@@ -8,11 +8,11 @@
 				*matplotlib
 				*sklearn
 
-###Problem Statement : 
+### Problem Statement : 
 A Bank wants to take care of customer retention for its product: savings accounts. The bank wants you to identify customers likely to churn balances below 	the minimum balance. You have the customers information such as age, gender, demographics along with their transactions with the bank.
 Your task as a data scientist would be to predict the propensity to churn for each customer.
 
-Data Dictionary
+#### Data Dictionary
 
 There are multiple variables in the dataset which can be cleanly divided into 3 categories:
 I. Demographic information about customers
@@ -41,7 +41,7 @@ III. Transactional Information
     • churn - Average balance of customer falls below minimum balance in the next quarter (1/0) 
 	
 
-###Solution :
+### Solution :
 	The solution code is divided into the following sections:
 		* Importing libraries
 		* Data understanding
@@ -56,7 +56,7 @@ III. Transactional Information
 	Metrics used :
 		* Accuracy score
 
-###Project File Structure :
+### Project File Structure :
 	* churn_prediction.csv - Dataset Provided Internshala Trainings 
 	* ChurnPrediction.ipynb - Script file 
 	* Problem statement - Problem statement with all the  meaning of terminalogies used in the dataset is Provided.
